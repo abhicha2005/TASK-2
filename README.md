@@ -1,1 +1,1 @@
-# TASK-2
+First i checked the email received from  BANCO DO BRADESCO LIVELO then analysed the header of the email at eml-analyzer and checked about the ip of the sender ,then checked the email for spoofing and then checked for any suspicious link and luring words
